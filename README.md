@@ -50,4 +50,5 @@ The project must have Swytchcode configured and authenticated for the providers 
 
 The exact follow-up tools are decided by Hermes from the natural-language request and the returned GitHub data; these prompts are not keyword-routed.
 
-Jira creation uses the supplied project key and a Task issue type. Slack posting uses the supplied channel. Review the confirmation panel before allowing either write.
+Jira creation uses the supplied project key and a Task issue type. Slack posting uses the supplied channel. Review the confirmation panel before allowing either write. <img width="9483" height="3618" alt="Swytchcode-ai-agent-engineer" src="https://github.com/user-attachments/assets/a63847aa-db02-4228-b818-3832679fabe6" />
+
